@@ -1,4 +1,4 @@
-## Oii eu sou a Isabella Costa, estudante de informática técnica!
+## Oii eu sou a Isabella Costa, estudante de programação!
 
 <div align="center">
   <a href="https://github.com/IsabellaAlvesCosta">
